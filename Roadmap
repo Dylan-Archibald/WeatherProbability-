@@ -11,3 +11,33 @@ Preprocess the data:
 Convert timestamps
 Handle missing values
 Extract key weather features (temperature, humidity, precipitation, etc.)
+
+Phase 2: Probability Modeling
+Goal: Calculate the probability of a specific weather pattern occurring.
+
+Basic probability:
+
+Compute frequency distributions of weather patterns (e.g., "Rain" on given dates).
+Use conditional probabilities (e.g., probability of rain given high humidity).
+Statistical models:
+
+Markov Chains: Model the likelihood of weather transitions (e.g., sunny → rainy).
+Bayesian Probability: Update weather predictions based on prior observations.
+
+Phase 3: Machine Learning for Prediction
+Goal: Improve prediction accuracy using ML techniques.
+
+Time Series Forecasting:
+
+ARIMA (AutoRegressive Integrated Moving Average) for trend-based forecasting.
+Facebook Prophet for seasonal weather pattern detection.
+Deep Learning (LSTM, CNNs):
+
+Use Long Short-Term Memory (LSTM) networks for sequential weather data.
+Use Random Forest or XGBoost for pattern classification.
+
+Phase 4: Visualization & User Interaction
+Goal: Present insights in a user-friendly format.
+
+Matplotlib/Seaborn for probability distributions.
+Streamlit for an interactive web app to input a location and see probabilities.
