@@ -1,0 +1,13 @@
+Phase 1: Data Collection & Preprocessing
+Goal: Gather historical weather data for a chosen region and clean it.
+
+Choose a data source:
+
+OpenWeatherMap API (limited history)
+NOAA's Climate Data API (more detailed historical data)
+Kaggle weather datasets (pre-cleaned data)
+Preprocess the data:
+
+Convert timestamps
+Handle missing values
+Extract key weather features (temperature, humidity, precipitation, etc.)
