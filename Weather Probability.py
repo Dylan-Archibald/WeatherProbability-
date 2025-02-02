@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
-
+import 
 # Function to fetch historical weather data
 def fetch_weather_data(api_key, location, start_date, end_date):
     url = f"http://api.weatherapi.com/v1/history.json?key={api_key}&q={location}&dt={start_date}&end_dt={end_date}"
