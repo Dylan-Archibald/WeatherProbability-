@@ -28,7 +28,7 @@ def plot_probability(probability, pattern):
     plt.title(f'Probability of {pattern.capitalize()}')
     plt.show()
 
-# Main function
+# Main function of the Probability Model
 def main():
     api_key = "YOUR_API_KEY"  # Replace with your API key
     location = input("Enter the location: ")
