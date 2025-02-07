@@ -1,7 +1,7 @@
 Phase 1: Data Collection & Preprocessing
 Goal: Gather historical weather data for a chosen region and clean it.
 
-Choose a data source:
+Choosing a data source:
 
 OpenWeatherMap API (limited history)
 NOAA's Climate Data API (more detailed historical data)
