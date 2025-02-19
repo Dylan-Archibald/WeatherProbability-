@@ -1,4 +1,4 @@
-aimport requests
+aaimport requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
