@@ -30,7 +30,7 @@ def plot_probability(probability, pattern):
 
 # Main function of the Probability Model
 def main():
-    api_key = "YOUR_API_KEY"  # Replace with your API key
+    api_key = ""  # Replace with your API key
     location = input("Enter the location: ")
     start_date = input("Enter the start date (YYYY-MM-DD): ")
     end_date = input("Enter the end date (YYYY-MM-DD): ")
