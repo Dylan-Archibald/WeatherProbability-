@@ -1,6 +1,6 @@
 import requests
 1import pandas as pd
-1import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 # Function to fetch historical weather data
 def fetch_weather_data(api_key, location, start_date, end_date):
