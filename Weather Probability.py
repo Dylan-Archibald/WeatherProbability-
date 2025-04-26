@@ -1,4 +1,4 @@
-1import requests
+import requests
 1import pandas as pd
 1import matplotlib.pyplot as plt
 
