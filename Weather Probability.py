@@ -1,5 +1,5 @@
 import requests
-1import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 
 # Function to fetch historical weather data
