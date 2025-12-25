@@ -1,4 +1,4 @@
-1111111111111111111111111# WeatherProbability-
+# WeatherProbability-
 Predict the future forecast for a particular region 
 
 Rationale: 
